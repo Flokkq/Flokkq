@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋</h2>
-<h3 align="left">My name is Clemens and I'm a software engineering stent, from Austria</h3>
+<h3 align="left">My name is Clemens and I'm a software engineering student, from Austria</h3>
 
 ###
 
