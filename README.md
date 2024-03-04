@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Clemens Weber and I'm a software engineering stduent, from Austria</h2>
+<h2 align="left">Hi 👋! My name is Clemens and I'm a software engineering stduent, from Austria</h2>
 
 ###
 
