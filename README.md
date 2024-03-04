@@ -6,7 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=flokkq&show_icons=true&langs_count=5&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flokkq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
+
+### My favourite Languages
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
