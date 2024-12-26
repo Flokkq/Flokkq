@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋</h2>
-<h3 align="left">I'm Clemens, a 17-year-old software engineering student from Austria 🇦🇹</h3>
+<h3 align="left">I'm Clemens, a 18-year-old software engineering student from Austria 🇦🇹</h3>
 
 ###
 
