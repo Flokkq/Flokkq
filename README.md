@@ -4,20 +4,26 @@
 ###
 
 <p>
-  I love tweaking things down to the smallest detail. Thats why i love:
+  I love tweaking things down to the smallest detail. That's why I love:
   <ul>
+    <li><strong>C</strong> 👀</li>
     <li><strong>Rust</strong> 🦀</li>
     <li><strong>NixOS</strong> ❄️</li>
+    <li><strong>Neovim</strong> ⚡</li>
     <li><strong>Zig Build System</strong> ⚙️</li>
   </ul>
-  I enjoy overengineering backends and recreational programming.
+  I enjoy system level, hardware orientated and recreational programming.
 </p>
 
 <p>
-  One thing I don’t like? <strong>JavaScript</strong>. Nope.
+  One thing I don’t like? <strong>Web</strong>. Nope.
 </p>
 
-<p> <strong>What's the goal?</strong><br> Building my own complete system from scratch: OS, shell, terminal, text editor, GUI, and even my own browser running a scuffed markup language and WASM. </p>
+<p>
+  <strong>What's the goal?</strong>
+  <br>
+  Building everyday devices from scratch — e.g. vintage radios, telephones, <a href="https://github.com/Flokkq/taqp">macro pads</a>  and walkie-talkies.
+</p>
 
 ###
 
@@ -40,4 +46,3 @@
 ###
 
 <p align="center"> Looking at you, <a href="https://github.com/tum"> @TUM </a> 👀 </p>
-
