@@ -8,8 +8,8 @@
   <ul>
     <li><strong>C</strong> 👀</li>
     <li><strong>Rust</strong> 🦀</li>
-    <li><strong>NixOS</strong> ❄️</li>
-    <li><strong>Neovim</strong> ⚡</li>
+    <li><strong><a href="https://github.com/Flokkq/nixos.git">NixOS</a></strong> ❄️</li>
+    <li><strong><a href="https://github.com/Flokkq?tab=repositories&q=.nvim&type=&language=lua&sort=stargazers">Neovm</strong> ⚡</li>
     <li><strong>Zig Build System</strong> ⚙️</li>
   </ul>
   I enjoy system level, hardware orientated and recreational programming.
